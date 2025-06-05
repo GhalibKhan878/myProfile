@@ -4,7 +4,6 @@
 <h4 align="left">An aspiring full stack developer with a specialization in 💻 java fullstack from Qspider Noida (India). Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h4>
 <img align='right' src="https://c.tenor.com/aD7y5Tg9BzwAAAAC/web-design-modern-web-gif.gif" width="230">
 
-
 <p align="left">
   🌱 I love to code, build things & solve problems. <br/>
    🤝 I am open to collaborate on any project that is impactful and makes the world a better place. <br/>
